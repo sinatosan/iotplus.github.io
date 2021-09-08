@@ -1,3 +1,5 @@
+redirect_to: "https://sinatosan.github.io/iotplus.github.io"
+
 <!DOCTYPE html>
 <html lang="en">
 
